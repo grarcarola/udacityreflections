@@ -5,4 +5,8 @@ You need to do it so git will run. Otherwise commands wil fail.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-It's sort of a inbetween stage. The working directory inculdes all files but the repository and staging are might not. It must be passed through.
+It's sort of a inbetween stage. The working directory inculdes all files but the repository and staging are might not. It must be passed through.subl
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can use git diff --staged to compare the staging are and the most recent commit.
