@@ -14,3 +14,7 @@ You can use git diff --staged to compare the staging are and the most recent com
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches are helpful for creating new experimental code without messing with the master.
+
+How do the diagrams help you visualize the branch structure?
+
+It's very easy to see where branches leave the master and how to trace them back to the same parents.
