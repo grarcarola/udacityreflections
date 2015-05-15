@@ -18,3 +18,12 @@ Branches are helpful for creating new experimental code without messing with the
 How do the diagrams help you visualize the branch structure?
 
 It's very easy to see where branches leave the master and how to trace them back to the same parents.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It combines the code together into the master branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic is great since it is easy and faster, but if changes were made to
+the same line there will be issues merging.
