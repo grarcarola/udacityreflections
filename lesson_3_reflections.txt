@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+A remote repository is good when you want to share with others and also it will prevent data loss if you damage or lose
+your PC.
