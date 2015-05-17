@@ -2,3 +2,13 @@ When would you want to use a remote repository rather than keeping all your work
 
 A remote repository is good when you want to share with others and also it will prevent data loss if you damage or lose
 your PC.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+So no files change without you knowing.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are good when you want to edit and work on existing files on someones github.
+Clones are good for working on something locally.
+Branches are good for creating a new part for a project.
